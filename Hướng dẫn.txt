@@ -1,0 +1,9 @@
+***********Luu ý************* 
+1 : Luu file Micar vào C:\xampp\htdocs\ de chay code
+2 : Chinh cong cua localhost Apache cua XAMPP thành 8080
+hoac vào C:\xampp\htdocs\Micar\2.Sources\config\core.php chinh $home_url ve $home_url="http://localhost/Micar/2.Sources/"
+de chac chan trang web có the chay duoc
+3 : Bat Apache và MySQL cua Xampp
+4 : Import database o duong dan C:\xampp\htdocs\Micar\1.Database\micar-database.sql
+vào phpmyadmin
+5 : Chay project 
